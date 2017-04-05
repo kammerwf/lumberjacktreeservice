@@ -1,13 +1,7 @@
-.top-bar{
-  color: #33cc00;
-  background: #ffffff;
-}
-div.call {
-  float:right;
-  padding: 2em 2em 0 0;
 
-}
-.top-bar ul.dropdown.menu {
-background-color: #ffffff;
-color: #33cc00;
+
+form {
+
+  border: 1.2px solid black;
+  padding: 0.5em;
 }
