@@ -1,7 +1,30 @@
+header, .top-bar {
+  background-color: lightgrey;
+}
+.top-bar li{
+  border: 1px solid lightgrey;
+}
+header div.top-bar-title img{
+  height: auto;
+  width: auto;
+  min-height: 90px;
+  min-width: 140px;
+  display: inline-block;
+}
+header div.callout {
+  font-size: 1.2em;
+  text-align: center;
+}
+div.banner {
+  display: block;
+  background: url(../img/slide_5) no-repeat center center;
+  max-width: 1200px;
+  height:auto;
 
+
+}
 
 form {
-
   border: 1.2px solid black;
   padding: 0.5em;
 }
