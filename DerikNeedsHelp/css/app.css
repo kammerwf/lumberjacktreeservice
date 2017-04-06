@@ -1,4 +1,4 @@
-header, .top-bar {
+ .top-bar {
   background-color: lightgrey;
 }
 .top-bar li{
@@ -18,8 +18,9 @@ header div.callout {
 div.banner {
   display: block;
   background: url(../img/slide_5) no-repeat center center;
-  max-width: 1200px;
+  width: 1200px;
   height:auto;
+  align-content: center;
 
 
 }
